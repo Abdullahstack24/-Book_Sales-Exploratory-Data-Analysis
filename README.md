@@ -71,7 +71,7 @@ This project explores a dataset of **1,070 books** to uncover patterns in **publ
 
 ### 📈 Total Units Sold Over the Years
 <p align="center">
-  <img src="images/units_sold_over_years.png" alt="Total units sold over the years" width="600">
+  <img src="units_sold_over_years.png" alt="Total units sold over the years" width="600">
 </p>
 
 > Sales stay low for most of the 20th century, start growing from the 1980s and **peak around 2012 (~770K units)**. The drop after 2012 is likely due to fewer records in the dataset for the latest years.
@@ -80,7 +80,7 @@ This project explores a dataset of **1,070 books** to uncover patterns in **publ
 
 ### 📦 Units Sold by Author Rating
 <p align="center">
-  <img src="images/units_sold_by_author_rating.png" alt="Box plot of units sold by author rating" width="600">
+  <img src="units_sold_by_author_rating.png" alt="Box plot of units sold by author rating" width="600">
 </p>
 
 > **"Excellent" authors have by far the widest spread**, with the top quarter of their books selling around 30K+ units. Intermediate authors show many high-selling outliers, while most books in every group sell fewer than ~6K units.
@@ -89,7 +89,7 @@ This project explores a dataset of **1,070 books** to uncover patterns in **publ
 
 ### 💰 Sale Price vs Units Sold
 <p align="center">
-  <img src="images/price_vs_units_sold.png" alt="Scatter plot of sale price vs units sold" width="600">
+  <img src="price_vs_units_sold.png" alt="Scatter plot of sale price vs units sold" width="600">
 </p>
 
 > **Price alone doesn't explain sales.** Books split into two clear groups: low sellers (under ~7K units) and bestsellers (28K to 61K units), and both groups exist at almost every price point. Very expensive books (above $15) rarely sell many units.
@@ -166,7 +166,7 @@ Contributions, issues and feature requests are welcome! Feel free to open an iss
 
 ## 📬 Contact
 
-**Your Name** &nbsp;·&nbsp; [GitHub](https://github.com/your-username) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/your-profile) &nbsp;·&nbsp; [Email](mailto:you@example.com)
+**Your Name** &nbsp;·&nbsp; [GitHub](https://github.com/Abdullahstack24) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/abdullah-mehmood-/) 
 
 ---
 
